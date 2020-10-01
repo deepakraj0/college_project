@@ -57,7 +57,7 @@ void aeronspire(int p,int q)
         {
            j--;
         }
-     //   cleardevice();
+     //   cleardevice(); this does not required any more
 
         setlinestyle(0,0,2);
         line(0,0,280,-80+i);
